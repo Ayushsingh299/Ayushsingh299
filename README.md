@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayushsingh299/Ayushsingh299/blob/main/Data-Science%20(1).jpg)
 # 💫 Hi 👋, I'm Ayush Singh
 
 **A passionate Computer Science student | Aspiring Software Developer | Data Science & Python Enthusiast from India 🇮🇳**
